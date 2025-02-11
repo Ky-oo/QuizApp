@@ -50,8 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
         centerTitle: true,
       ),
       body:
-      SingleChildScrollView(
-      child: Center(
+      Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
@@ -113,7 +112,6 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
           ],
         ),
-      ),
       )
     );
   }
