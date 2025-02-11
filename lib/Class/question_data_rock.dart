@@ -62,6 +62,12 @@ class QuestionDataRock {
         response: true,
         explanation: "Slash a effectivement volé son célèbre haut-de-forme dans une boutique de Los Angeles à ses débuts.",
         imagePath: 'slash.jpg'
-    )
+    ),
+    Question(
+        question: "La chanson 'Smells Like Teen Spirit' de Nirvana a été inspirée par un déodorant.",
+        response: true,
+        explanation: "Kurt Cobain a écrit 'Smells Like Teen Spirit' après avoir vu le déodorant 'Teen Spirit', ce qui l'a inspiré pour le titre.",
+        imagePath: 'nirvana.jpg'
+    ),
   ];
 }
